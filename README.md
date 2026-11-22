@@ -47,9 +47,9 @@ To test the hypothesis, the following 3 antibiotics among 12 were chosen for ana
 
 | Antibiotic | R/S |
 |------------|-----|
-| CIP | 429/1,506 |
-| GEN | 284/1,651 |
-| CXM | 520/1,415 |
+| CIP | 429/1506 |
+| GEN | 284/1651 |
+| CXM | 520/1415 |
 
 ### Model features
 
